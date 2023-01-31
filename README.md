@@ -11,3 +11,4 @@ it uses [XmlIgnore] instead of [NonSerialized] and ignores [Serializable]
 it doesn’t serialize private class members
 
 Credits : https://blog.kowalczyk.info/article/8n/Serialization-in-C.html
+        : https://stackoverflow.com/questions/5877808/what-is-serializable-and-when-should-i-use-it
